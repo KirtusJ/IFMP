@@ -18,6 +18,8 @@ The **Integrated Federated Mutualist Protocol (IFMP)** is a draft proposal for a
 
 This repository contains the complete Agent-Based Model (ABM) simulation, conceptual documentation, and research paper.
 
+## Disclaimer: This work is incomplete. Its wording is imprecise; for example, abolishing IP is strictly not required.
+
 ---
 
 ### Why Efficiency, Not Redistribution
