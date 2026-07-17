@@ -1,7 +1,7 @@
 # IFMP-ABM: Integrated Federated Mutualist Protocol
 ## Agent-Based Modeling for Economic Transition
 
-**Version:** 1.4 (Draft)  
+**Version:** 1.0 (Draft)  
 **License:** MIT  
 **Status:** Research Prototype  
 **Author:** Kirtus J.
