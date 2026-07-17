@@ -1,5 +1,3 @@
---- START OF FILE README.md ---
-
 # IFMP-ABM: Integrated Federated Mutualist Protocol
 ## Agent-Based Modeling for Economic Transition
 
