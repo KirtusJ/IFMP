@@ -1,5 +1,4 @@
 # IFMP-ABM: Integrated Federated Mutualist Protocol
-## Agent-Based Modeling for Economic Transition
 
 **Version:** 1.0 (Draft)  
 **License:** MIT  
@@ -19,6 +18,7 @@ The **Integrated Federated Mutualist Protocol (IFMP)** is a draft proposal for a
 This repository contains the complete Agent-Based Model (ABM) simulation, conceptual documentation, and research paper.
 
 ## Disclaimer: This work is incomplete. Its wording is imprecise; for example, abolishing IP is strictly not required.
+## Contributers welcome!
 
 ---
 
@@ -151,7 +151,7 @@ GitHub Repository. https://github.com/KirtusJ/IFMP-ABM
 
 This work builds on the intellectual traditions of:
 - **Henry George** (Land Value Capture)
-- **Pierre-Joseph Proudhon** (Mutual Credit)
+- **Pierre-Joseph Proudhon** (Anarchist Mutual Credit)
 - **Elinor Ostrom** (Commons Governance)
 - **The Cooperative Movement** (Worker Ownership)
 
@@ -160,4 +160,4 @@ This work builds on the intellectual traditions of:
 ## Contact
 
 - **Author:** Kirtus J.
-- **GitHub:** [KirtusJ](https://github.com/KirtusJ)
+- **Email:** kirtusjustus@gmail.com

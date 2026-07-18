@@ -15,7 +15,7 @@ This framework does not claim to be wholly original. It builds on the work of tw
 
 - **Georgism** (Henry George, *Progress and Poverty*, 1879): The insight that land-rent is unearned and that its socialization would eliminate a primary source of inequality and inefficiency.
 
-- **Mutualism** (Pierre-Joseph Proudhon, *What Is Property?*, 1840): The insight that interest-bearing credit is extractive and that cost-basis mutual credit would eliminate another primary source of inequality and inefficiency.
+- **Anarchist Mutualism** (Pierre-Joseph Proudhon, *What Is Property?*, 1840): The insight that interest-bearing credit is extractive and that cost-basis mutual credit would eliminate another primary source of inequality and inefficiency.
 
 The proposal here is that these two insights are not alternatives but *complements*. Land-rent and interest are structurally identical: both are forms of unearned extraction from productive labor. A complete system must address both.
 
