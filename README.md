@@ -147,13 +147,15 @@ GitHub Repository. https://github.com/KirtusJ/IFMP-ABM
 
 ---
 
-## Acknowledgments
+## Acknowledgments & Intellectual Lineage
 
-This work builds on the intellectual traditions of:
-- **Henry George** (Land Value Capture)
-- **Pierre-Joseph Proudhon** (Anarchist Mutual Credit)
-- **Elinor Ostrom** (Commons Governance)
-- **The Cooperative Movement** (Worker Ownership)
+This work represents a modern systems-engineering synthesis of radical political economy, complex systems theory, and institutional cybernetics. It builds directly upon the following intellectual traditions:
+
+- **Henry George (Georgism & Land Value Capture):** For the spatial framework utilized in the LVC layer to eliminate geographic enclosure, neutralize resource alienation, and fund the non-monetized Universal Basic Services (UBS).
+- **Pierre-Joseph Proudhon (Mutualist Anarchism & Cost-Basis Credit):** For the horizontal financial architecture of the Mutual Credit Clearinghouse (MCC), ensuring that discretionary market exchange (DSM) remains non-extractive.
+- **Stafford Beer (Cybernetics & Viable System Modeling):** For the top-down suggestion protocol architecture and exception-based informational filters that minimize the cognitive burden of distributed algorithmic governance.
+- **Elinor Ostrom (Institutional Economics & Polycentric Governance):** For the rules governing distributed coordination, ensuring that global logistical synchronization coexists with local cultural and geographic autonomy.
+- **The Cooperative Movement (Democratic Worker Ownership):** For the foundational logic of the Labor-Managed Firm (LMF), ensuring that structural wealth flows directly back to productive human nodes rather than extractive rentier channels.
 
 ---
 
