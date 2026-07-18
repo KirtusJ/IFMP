@@ -39,15 +39,6 @@ Redirecting wealth back to its sources is not about taking from the rich and giv
 
 ---
 
-## Key Components
-
-- **Four-Dimensional Dynamic Gradient** (UBS, DSM, TFP, Time)
-- **IFMP Mechanisms** (LVC, MCC, LMF, DEAP, ATD, TMC)
-- **Full ABM Implementation** in Python/Mesa
-- **Academic Paper** with simulation results
-
----
-
 ## Repository Structure
 
 ```
@@ -73,32 +64,6 @@ IFMP-ABM/
 │   └── SIMULATION_FRAMEWORK_SPECIFICATION.md
 ├── visualizations/              # Generated figures
 └── notebooks/                   # Analysis notebooks
-```
-
----
-
-## Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/KirtusJ/IFMP-ABM.git
-cd IFMP-ABM
-
-# Install dependencies
-pip install -r requirements.txt
-```
-
----
-
-## Usage
-
-```bash
-# Run the simulation
-cd src
-python models/complete_model.py
-
-# Run the analysis notebook
-jupyter notebook notebooks/analysis.ipynb
 ```
 
 ---
